@@ -1,13 +1,13 @@
 {
-  "name": "Space Quiz",
-  "short_name": "SpaceQuiz",
-  "description": "A sci\u2011fi HUD quiz with avatar, SFX, music, lifelines, and a victory video.",
-  "start_url": ".",
-  "scope": ".",
+  "name": "Foundry Space Quiz",
+  "short_name": "Space Quiz",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
-  "orientation": "landscape",
   "background_color": "#0a0e22",
-  "theme_color": "#0a0e22",
+  "theme_color": "#37d6e8",
+  "orientation": "portrait",
+  "description": "An interactive space quiz game with avatars, lifelines, sound effects, and victory video.",
   "icons": [
     {
       "src": "icons/icon-192.png",
